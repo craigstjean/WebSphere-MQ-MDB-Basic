@@ -1,0 +1,11 @@
+h1. Introduction
+
+This is a sample project that leverages the following technologies:
+
+* WebSphere Application Server 8.5
+* WebSphere MQ
+
+The goal of the project is simply to demonstrate how to integrate these technologies.
+
+For more information, check out my blog post at: http://www.craigstjean.com/2016/02/WebSphere-8-5-MQ-Spring-and-Message-Driven-Beans/
+
