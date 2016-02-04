@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="BasicExample">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="BasicExampleWeb.war" deploy-path="/" handle="module:/resource/BasicExampleWeb/BasicExampleWeb">
+            <dependent-object>Module_1454563931763</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="BasicExampleEjb.jar" deploy-path="/" handle="module:/resource/BasicExampleEjb/BasicExampleEjb">
+            <dependent-object>Module_1454565852273</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
